@@ -1,0 +1,5 @@
+It is a header file which contains all the input and output functions like printf and scanf.
+printf is a function in c used to print the "character,string,float,integer,octal and hexadecimal values" onto the output screen.
+main() is a function used to define a function that takes no arguments.
+The keyboard is called a QWERTY keyboard because these are the first six letters on the keyboard. Most modern computer keyboards have a raised dot or bar on the home keys for the index fingers to help touch typists maintain and rediscover the correct position on the keyboard quickly with no need to look at the keys.
+Touch typing basically means using all ten fingers to type. Each key on the keyboard is associated with a specific finger. It might be difficult at the start to use all fingers, but as you spend more time practicing, it becomes easier and faster.
