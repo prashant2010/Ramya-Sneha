@@ -1,0 +1,22 @@
+It is a header file which contains all the input and output functions like printf and scanf.
+printf is a function in c used to print the "character,string,float,integer,octal and hexadecimal values" onto the output screen.
+main() is a function used to define a function that takes no arguments.
+ variables are used to store information to be referenced and used by programs.
+ There are five basic data types associated with variables:
+int - integer: a whole number.
+float - floating point value: ie a number with a fractional part.
+double - a double-precision floating point value.
+char - a single character.
+void - valueless special purpose type which we will examine closely in later sections.
+ An assignment operator assigns a value to its left operand based on the value of its right operand.
+ The first argument to printf is a string of identifiers. %s refers to a string %d refers to an integer %c refers to a character
+ A compiler is a special program that processes statements written in a particular programming language and turns them into machine language or "code" that a computer's processor uses.
+ meaning of both "to run" and "to execute" refers to the specific action of a user starting (or launching or invoking) a program, as in "Please run the application."
+ Open the computer’s code and compile program.
+Locate the manual debugging tool by looking on the toolbar.
+Look under the Tool tab and search for Debug or Debug compiler.
+Click result found.
+Review the code for errors.
+Fix all errors you find.
+Save all changes then run the compiler.
+Restart your computer when the process is complete.
